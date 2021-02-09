@@ -7,5 +7,6 @@
 - touch (create a new file)
 - nano (edit a file0
 - cat (file discription)
- 
+ ## intialize the git
+ - git init
 
